@@ -7,3 +7,7 @@ h1{
 h3{
    font-size: larger;
 }
+p{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
